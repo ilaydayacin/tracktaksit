@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\track bar örnek\track bar örnek\bin\Debug\track bar örnek.exe.config
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\track bar örnek\track bar örnek\bin\Debug\track bar örnek.exe
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\track bar örnek\track bar örnek\bin\Debug\track bar örnek.pdb
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\track bar örnek\track bar örnek\obj\Debug\track bar örnek.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\track bar örnek\track bar örnek\obj\Debug\track bar örnek.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\track bar örnek\track bar örnek\obj\Debug\track_bar_örnek.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\track bar örnek\track bar örnek\obj\Debug\track_bar_örnek.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\track bar örnek\track bar örnek\obj\Debug\track bar örnek.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\track bar örnek\track bar örnek\obj\Debug\track bar örnek.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\track bar örnek\track bar örnek\obj\Debug\track bar örnek.exe
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\track bar örnek\track bar örnek\obj\Debug\track bar örnek.pdb
